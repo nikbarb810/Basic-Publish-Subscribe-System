@@ -1,0 +1,17 @@
+# ninja log v5
+13	167	6922073639604851	CMakeFiles/project.dir/main.c.obj	dcaf2929f32adc80
+154	306	6926529104037086	project.exe	4f6bb9ce55bbe74c
+8	258	6926525120718773	CMakeFiles/project.dir/pss.c.obj	5b3f02b020f8df03
+3	80	6897113745945018	CMakeFiles/project.dir/main1.c.obj	8b95769312f3bd59
+1	317	6926529853868055	build.ninja	a20f5b371e59f4fa
+3	154	6926529102462305	CMakeFiles/project.dir/Insert_info.c.obj	5ae76c7ad76700b0
+34	209	6901334923653487	CMakeFiles/project.dir/Sub_List.c.obj	fcf0e631630ba92d
+17	234	6926525120093657	CMakeFiles/project.dir/Subscription.c.obj	9b2fd473689dc968
+11	136	6926529102306032	CMakeFiles/project.dir/main2.c.obj	f7118286cc1222fd
+5	211	6926525120249994	CMakeFiles/project.dir/subscriber_info.c.obj	d686b0079f44f668
+0	80	6922372733041822	CMakeFiles/project.dir/InfoTree.c.obj	4156f0638d878a06
+12	227	6926525120406266	CMakeFiles/project.dir/oldmain.c.obj	e0c032e276a116b7
+4	169	6926529997912715	CMakeFiles/project.dir/Insert_info.c.obj	5ae76c7ad76700b0
+17	203	6926529998252374	CMakeFiles/project.dir/oldmain.c.obj	e0c032e276a116b7
+10	207	6926529998252374	CMakeFiles/project.dir/pss.c.obj	5b3f02b020f8df03
+208	387	6926529999948554	project.exe	fb585c9c10204fe0
