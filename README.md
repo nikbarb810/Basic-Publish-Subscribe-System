@@ -40,7 +40,7 @@ In Phase B, we enhance the PSS by introducing more advanced data structures and 
 
 2. **Info Structure (`struct Info`):** Holds information about uploaded content in a **Doubly Linked Binary Search Tree**.
 
-3. **Consumption Structure('struct TreeInfo'):** Holds information about subscriber's consumed content, using the new **Prune** function, in a **Sorted Leaf-Oriented Binary Search Tree**.
+3. **Consumption Structure(`struct TreeInfo`):** Holds information about subscriber's consumed content, using the new **Prune** function, in a **Sorted Leaf-Oriented Binary Search Tree**.
 
 ### New Function
 
