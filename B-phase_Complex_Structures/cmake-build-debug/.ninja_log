@@ -1,0 +1,9 @@
+# ninja log v5
+192	294	7165755221830551	projectb.exe	ee48b5a4e3c02fc8
+0	123	7165756609973968	CMakeFiles/B-phase_Complex_Structures.dir/InfoTree/InfoTree.c.obj	f46a9c8dda91dcbb
+11	144	7165756610286395	CMakeFiles/B-phase_Complex_Structures.dir/LO_TreeInfo/LO_TreeInfo.c.obj	8469e2d84ab447a
+20	152	7165756610442608	CMakeFiles/B-phase_Complex_Structures.dir/Subscription/Subscription.c.obj	7d251c36c0c1749
+15	152	7165756610286395	CMakeFiles/B-phase_Complex_Structures.dir/SubscriberHashMap/Sub_Hash_Map.c.obj	26e0ce76548ab54d
+6	153	7165756610442608	CMakeFiles/B-phase_Complex_Structures.dir/pss.c.obj	4545ccaa6d5cecf6
+26	155	7165756610510693	CMakeFiles/B-phase_Complex_Structures.dir/mainB.c.obj	ac51ce589c00137e
+155	244	7165756611383076	B-phase_Complex_Structures.exe	b8f4b82dd3cade11

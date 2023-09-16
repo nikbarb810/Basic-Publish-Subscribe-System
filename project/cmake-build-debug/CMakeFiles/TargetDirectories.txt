@@ -1,3 +1,0 @@
-C:/Users/nikba/Desktop/HY-240/project/cmake-build-debug/CMakeFiles/project.dir
-C:/Users/nikba/Desktop/HY-240/project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nikba/Desktop/HY-240/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

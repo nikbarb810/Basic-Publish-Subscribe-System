@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\nikba\Documents\GitHub\mine\Basic-Publish-Subscribe-System\A-phase_Basic_Structures
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/nikba/Documents/GitHub/mine/Basic-Publish-Subscribe-System/A-phase_Basic_Structures/cmake-build-debug
