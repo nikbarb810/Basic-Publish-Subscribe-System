@@ -1,6 +1,6 @@
-# Public Subscribe System (PSS)
+# Publish Subscribe System (PSS)
 
-Welcome to the Public Subscribe System (PSS) project! This C-based system enables publishers to upload content into various categories, and subscribers can consume content they have subscribed to. This README provides an overview of both Phase A (basic data structures) and Phase B (advanced data structures) of the PSS project.
+Welcome to the Publish Subscribe System (PSS) project! This C-based system enables publishers to upload content into various categories, and subscribers can consume content they have subscribed to. This README provides an overview of both Phase A (basic data structures) and Phase B (advanced data structures) of the PSS project.
 
 ## Phase A - Basic Data Structures
 
